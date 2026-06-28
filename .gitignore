@@ -1,0 +1,13 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS config
+.DS_Store
+.gemini/
+.idea/
+.vscode/
+
+# Local testing assets
+obsidian_vault/

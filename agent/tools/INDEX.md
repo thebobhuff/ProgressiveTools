@@ -18,6 +18,7 @@ This is the central index of all custom scripting utilities and developer tools 
 | :--- | :--- | :--- | :--- | :--- |
 | `python3 agent/tools/example_tool.py` | A placeholder script illustrating CLI parameter handling. | `--name [str]` | Prints a greeting to console. | [example_tool.py](file:///Users/bobhuff/ProgressiveTools/agent/tools/example_tool.py) |
 | `python3 agent/tools/lint_runner.py` | Parses a Python file to check syntax correctness and list elements missing docstrings. | `--file [str]` | Prints a syntax compile status and a list of functions/classes missing docstrings. | [lint_runner.py](file:///Users/bobhuff/ProgressiveTools/agent/tools/lint_runner.py) |
+| `python3 -m progagent.cli` | Starts the ProgAgent TUI workspace environment locally. | `--model [str]`, `--vault [str]` | Boots the rich split-pane TUI agent console. | [cli.py](file:///Users/bobhuff/ProgressiveTools/progagent/cli.py) |
 
 ---
 

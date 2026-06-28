@@ -18,6 +18,8 @@ This is the central index of all custom skills available to agents in this works
 | :--- | :--- | :--- | :--- |
 | `example_skill` | A placeholder demonstrating the skill structure. | `template`, `demo`, `tutorial` | [SKILL.md](file:///Users/bobhuff/ProgressiveTools/agent/skills/example_skill/SKILL.md) |
 | `code_quality` | Standard code quality, syntax, and docstring coverage checker. | `lint`, `format`, `docstring`, `code review` | [SKILL.md](file:///Users/bobhuff/ProgressiveTools/agent/skills/code_quality/SKILL.md) |
+| `obsidian_search` | Search Obsidian vault notes for credentials, configurations, and memory context. | `obsidian`, `vault`, `search notes`, `knowledge` | [SKILL.md](file:///Users/bobhuff/ProgressiveTools/agent/skills/obsidian_search/SKILL.md) |
+| `self_edit` | Guidelines and safety check procedures for modifying ProgAgent source code. | `edit yourself`, `self-edit`, `modify source`, `upgrade` | [SKILL.md](file:///Users/bobhuff/ProgressiveTools/agent/skills/self_edit/SKILL.md) |
 
 ---
 
